@@ -107,7 +107,7 @@
 ## 📈 Github Stat
 
 ![Jeyhun's GitHub stats](https://github-readme-stats-jeyhun1227.vercel.app/api?username=jeyhun1227&theme=transparent&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats-jeyhun1227.vercel.app/api/top-langs/?username=jeyhun1227&layout=compact)
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jeyhun1227&&style=flat-square)    
