@@ -106,7 +106,7 @@
 
 ## 📈 Github Stat
 
-<table align="center" style="border: none">
+<table align="center" style="border: none; width: 100%; overflow: hidden">
   <tr>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats-jeyhun1227.vercel.app/api?username=jeyhun1227&show_icons=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
