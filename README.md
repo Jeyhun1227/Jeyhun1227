@@ -106,19 +106,7 @@
 
 ## 📈 Github Stat
 
-<table align="center"><tr><td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=jeyhun1227&show_icons=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyhun1227&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyhun1227&hide_border=true" alt="Jeyhun" />
-</div>
+![Jeyhun's GitHub stats](https://github-readme-stats-jeyhun1227.vercel.app/api?username=jeyhun1227&theme=transparent&include_all_commits=true)
 
 <br/>  
 
