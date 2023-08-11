@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a seasoned and professional full stack software engineer with over 5 years of experience in the IT industry. I'm passionate about building innovative and user-friendly software solutions that meet the needs of businesses and users alike.
+🎓 I'm a seasoned and professional full stack software engineer with over 5 years of experience in software development. I'm passionate about building innovative and user-friendly software solutions that meet the needs of businesses and users alike.
 
 💻 My primary skills include Python, PHP, and JavaScript, and I'm proficient in a range of related technologies and frameworks. I'm always looking to expand my knowledge and stay up-to-date with the latest trends and best practices in software development.
 
