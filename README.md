@@ -103,3 +103,24 @@
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+## 📈 Github Stat
+
+<table align="center"><tr><td valign="top" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jeyhun1227&show_icons=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyhun1227&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyhun1227&hide_border=true" alt="Jeyhun" />
+</div>
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=jeyhun1227&&style=flat-square)    
+
