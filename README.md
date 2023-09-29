@@ -58,15 +58,14 @@
 ![redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![mssql](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-### APIs
-
-![rest-apis](https://img.shields.io/badge/REST_APIS-73DC8C?logo=restapis&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white)
-![postgrest](https://img.shields.io/badge/PostgREST-4169E1?logo=postgrest&logoColor=white)
 ![apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?logo=apollographql&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![paypal](https://img.shields.io/badge/Paypal-00457C?logo=paypal&logoColor=white)
+![apple pay](https://img.shields.io/badge/Apple_Pay-000000?logo=applepay&logoColor=white)
+![google pay](https://img.shields.io/badge/Google_Pay-4285F4?logo=googlepay&logoColor=white)
 
 ### Headless CMS
 
@@ -78,14 +77,7 @@
 ![storyblok](https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white)
 ![contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white)
 
-### Payment Gateways
-
-![stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![paypal](https://img.shields.io/badge/Paypal-00457C?logo=paypal&logoColor=white)
-![apple pay](https://img.shields.io/badge/Apple_Pay-000000?logo=applepay&logoColor=white)
-![google pay](https://img.shields.io/badge/Google_Pay-4285F4?logo=googlepay&logoColor=white)
-
-### Cloud Service & Hosting
+### Devops
 
 ![aws-lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
 ![aws-s3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white)
@@ -97,9 +89,6 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-
-### DevOps
-
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -110,7 +99,7 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![cicd](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### Testing
+### QA
 
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
